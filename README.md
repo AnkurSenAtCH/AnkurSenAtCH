@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankur Sen
-- 👀 I’m interested in learning new stuff, playing computer games, aquarium hobbyist.
+- 👀 I’m interested in learning new Tools & Technologies, playing computer games, aquarium hobbyist.
 - 🌱 I’m currently learning about domain and projects at CAH, apart from it interested in IOT, Android game development. 
 - 💞️ I’m looking to collaborate on CAH projects (CIM)
 - 📫 E-Mail me on ankur.sen@cardinalhealth.com
